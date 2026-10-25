@@ -1,0 +1,4 @@
+pypdf>=4.0
+# optional (only needed to OCR images that are not in code/cache/ocr_cache.json):
+# pytesseract>=0.3
+# pillow>=10
